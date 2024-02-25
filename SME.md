@@ -1,7 +1,7 @@
 Stuck in Limbo: How to Handle Radio-Silent SMEs in Technical Writing
 ====================================================================
 
-Knowledge is meant to be shared.
+Knowledge is meant to be shared. DREAMS ARE TO BE LIVED!!!!
 
 In the realm of technical writing, the collaboration between writers and Subject Matter Experts (SME) thrives on knowledge sharing. SMEs hold specialized knowledge in their respective fields, and their role involves imparting this knowledge to technical writers. Conversely, technical writers translate this expertise into accessible and understandable content for a broader audience - internal or external.
 
